@@ -13,7 +13,7 @@ import os, sys
 from pygame.locals import *
 spotify = spotipy.Spotify()
 
-number_of_songs = 10
+number_of_songs = 8
 
 
 
